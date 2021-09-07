@@ -7,6 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
+
 /* Navigation bar start  */
 .navbar {
     padding: 20px;
@@ -14,6 +15,7 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
+
 /* this slector will change the logo  */
 .navbar h1 {
     display: inline-block;
@@ -78,8 +80,11 @@ p {
     float: right;
     margin-left: 25px;
 }
+
 /* i have selected multiple elements to one selctor */
-.search-engine-optimization,.online-reputation-management ,.social-media-marketing {
+.search-engine-optimization,
+.online-reputation-management,
+.social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -87,17 +92,23 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 /* i have selected multiple elements to one selctor */
-.search-engine-optimization img ,.online-reputation-management img ,.social-media-marketing img{
+.search-engine-optimization img,
+.online-reputation-management img,
+.social-media-marketing img {
     max-height: 200px;
 }
+
 /* i have selected multiple elements to one selctor */
-.search-engine-optimization h2,.online-reputation-management h2,.social-media-marketing h2 {
+.search-engine-optimization h2,
+.online-reputation-management h2,
+.social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-  /* Right module context */
+/* Right module context */
 
 .benefits {
     margin-right: 20px;
@@ -109,18 +120,28 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
 /* i have selected multiple elements to one selctor */
-.benefit-lead,.benefit-brand,.benefit-cost {
+.benefit-lead,
+.benefit-brand,
+.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
 /* i have selected multiple elements to one selctor */
-.benefit-lead h3,.benefit-brand h3,.benefit-cost h3 {
+.benefit-lead h3,
+.benefit-brand h3,
+.benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-size:20px;
 }
+
 /* i have selected multiple elements to one selctor */
-.benefit-lead img,.benefit-brand img,.benefit-cost img {
+.benefit-lead img,
+.benefit-brand img,
+.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -138,7 +159,3 @@ p {
 .footer h2 {
     font-size: 20px;
 }
-
-
-
-
