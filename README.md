@@ -11,3 +11,7 @@ Horiseon this a marketing company that markets clients product or services.
 - sequential order of elements in HTML page is rectified
 - sequential order of selectors in stylesheet page is rectified
 - structure of the HTML elements is rectified
+
+GitHub pages
+https://rammohanmiryala.github.io/Horiseon-Marketing-Agency/
+ 
